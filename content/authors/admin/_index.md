@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Xinyue Huang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xinyue
+last_name: Huang
 
 # Status emoji
 status:
@@ -17,21 +17,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student of Biomedical Informatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Edinburgh
+    url: https://www.ed.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, healthcare, and bioinformatics. 
+
+
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neuroscience
+  - Operation Research
 
 # Education to show in About widget
 education:
@@ -44,7 +46,7 @@ education:
       year: 2009
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2025
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
