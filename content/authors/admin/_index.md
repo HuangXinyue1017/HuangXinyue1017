@@ -34,12 +34,16 @@ interests:
   - Artificial Intelligence
   - Computational Neuroscience
   - Operation Research
+  - Public Health
 
 # Education to show in About widget
 education:
   courses:
     - course: BSc (Hons) in Biomedical Informatics
-      institution: University of Edinburgh
+      institution: University of Edinburgh, United Kingdom
+      year: 2020
+    - course: BSc in Biomedical Informatics
+      institution: Zhejiang University, China
       year: 2020
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
@@ -65,7 +69,7 @@ skills:
       icon_pack: fas
     - name: SQL
       description: ''
-      percent: 40
+      percent: 80
       icon: database
       icon_pack: fas
   - name: Hobbies

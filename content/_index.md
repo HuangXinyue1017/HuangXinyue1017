@@ -62,27 +62,45 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Data and Project Management · Intern
+          company: Epicenter Health Research
+          company_url: 'https://epicentre.org.za/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Cape Town, Western Cape, South Africa
+          date_start: '2023-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Developed pre-programmed pipelines: I successfully created automated workflows and pipelines for data management, specifically focusing on quality control, dirty data removal, and survey design. These pipelines streamlined the data management process, ensuring clean and accurate data for analysis.
+              * Fieldwork data collection assistance: I played a crucial role in fieldwork activities by ensuring the consistency and reliability of data collection formats. Through my efforts, I helped maintain data integrity and accuracy during fieldwork operations.
+              * Simplified complex research articles: I successfully simplified complex research articles related to health topics, making them more accessible to a wider audience. By breaking down complicated concepts and using plain language, I contributed to increasing health awareness and enabling individuals to understand and manage various health conditions effectively.
+              * Collaboration with external organizations: I actively collaborated with the National Institute for Communicable Diseases and Epigenesis, contributing my expertise in data management, fieldwork assistance, and article journalism. Through this collaboration, I facilitated project processes, including coordinating activities, managing timelines, and ensuring effective communication between teams.
+        - title: Website Developer · Intern
+          company: University of Edinburgh
+          company_url: 'https://www.ed.ac.uk/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Edinburgh, Scotland, United Kingdom
+          date_start: '2022-11-30'
+          date_end: '2023-05-01'
+          description: |2-
+              Responsibilities include:
+              * Designing and developing a convenient database and website: I successfully designed and developed a database and website using technologies such as MySQL, Java, HTML, and other relevant programming languages. This achievement resulted in a user-friendly interface that facilitated seamless data collection.
+              * Engaging participants for research and website testing: Through my efforts, I successfully reached out to individuals and invited them to join our research and test our website. By actively engaging potential participants, I gathered valuable feedback and insights to improve the functionality and user experience of the website.
+              * Conducting research on predicting readers\' interests: I conducted research to predict readers\' interest in specific articles based on their previous reading patterns. By utilizing Python and deploying machine learning models, I developed algorithms that accurately predicted reader\' interests. This achievement led to enhanced personalized content recommendations and improved user engagement on the website.
+              * Documenting steps for experiment reproduction: I diligently documented the steps taken throughout the research and experimentation process. By providing clear and comprehensive documentation, I ensured that the experiments could be reproduced and the findings validated. This achievement promoted transparency, reproducibility, and knowledge sharing among other researchers and team members.
+        - title: Data Scientist · Intern
+          company: Zhejiang University
+          company_url: 'https://www.zju.edu.cn/english/'
+          company_logo: org-x
+          location: Hangzhou, Zhejiang, China
+          date_start: '2022-01-01'
+          date_end: '2022-12-30'
+          description: |2-
+              Responsibilities include:
+              * Data Collection: As a research assistant, you successfully collected a significant amount of real-world and synthetic data from the Ele.me platform, including more than 100,000 orders and 1,000 couriers in Shanghai. This comprehensive dataset provided a solid foundation for your research.
+              * Model Development: You deployed an integrated actor-critic reinforcement learning framework for the Instant Delivery System. This framework incorporated a deep matching network and value network, and you implemented various enhancements such as improved risk perception, a reject option, response rate limitation, and mean-field approximation. These additions aimed to optimize the system\'s performance and improve overall efficiency.
+              * Results and Optimization: Your research efforts yielded significant achievements. The implementation of the reinforcement learning framework resulted in an impressive 3.5% increase in long-term revenue, indicating a positive impact on the business\'s financial performance. Additionally, you successfully reduced the overdue rate by 1%, contributing to improved operational efficiency and customer satisfaction.
+              * Paper Submission: A noteworthy achievement is the submission of your paper to the prestigious IEEE Transactions on Knowledge and Data Engineering journal. This indicates the recognition and value of your research and findings within the academic community.Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
