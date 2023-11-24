@@ -71,10 +71,10 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Developed pre-programmed pipelines: I successfully created automated workflows and pipelines for data management, specifically focusing on quality control, dirty data removal, and survey design. These pipelines streamlined the data management process, ensuring clean and accurate data for analysis.
-              * Fieldwork data collection assistance: I played a crucial role in fieldwork activities by ensuring the consistency and reliability of data collection formats. Through my efforts, I helped maintain data integrity and accuracy during fieldwork operations.
-              * Simplified complex research articles: I successfully simplified complex research articles related to health topics, making them more accessible to a wider audience. By breaking down complicated concepts and using plain language, I contributed to increasing health awareness and enabling individuals to understand and manage various health conditions effectively.
-              * Collaboration with external organizations: I actively collaborated with the National Institute for Communicable Diseases and Epigenesis, contributing my expertise in data management, fieldwork assistance, and article journalism. Through this collaboration, I facilitated project processes, including coordinating activities, managing timelines, and ensuring effective communication between teams.
+              * Development of pre-programmed pipelines: Designed surveys by REDCap and developed automated data management workflows by Python, with a specific focus on quality control and erroneous data removal. Ensured a streamlined data management process and accurate data for analysis.
+              * Assistance in fieldwork data collection: Monitored the consistency and reliability of data collection formats using SurveyCTO, guaranteeing data integrity and accuracy during fieldwork operations.
+              * Simplification of complex research articles: Translated complex research articles containing intricate concepts related to chronic diseases (e.g., diabetes, HIV) into plain language, making them more accessible to a broader audience and promoting health awareness among individuals.
+              * Collaboration with external organizations: Worked in collaboration with the National Institute for Communicable Diseases (NICD) and Genesis Analytics (GA) to facilitate project processes. This involved coordinating activities, managing timelines, and ensuring effective communication between teams.
         - title: Website Developer · Intern
           company: University of Edinburgh
           company_url: 'https://www.ed.ac.uk/'
